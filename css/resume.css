@@ -114,6 +114,64 @@ a {
   a:hover, a:focus, a:active {
     color: #824027; }
 
-.CSharpAnnotationPics{
+/*.CSharpAnnotationPics{
   background-image: 
+}*/
+
+.text-primary {
+  color: rgb(255, 17, 0)!important;
+
+
 }
+
+#dylan{
+  color: rgb(255, 17, 0)!important;
+}
+
+#heermann{
+  color: rgb(255, 17, 0)!important;
+}
+
+#backgroundBlack{
+  background-color: black;
+}
+#sideNav{
+  background-color: red;
+  color: rgb(255, 17, 0)!important; 
+}
+#a{
+  color: white;
+}
+
+.a{
+  color:white;
+}
+
+.mb-0{
+  color:white;
+}
+
+.mb-5{
+  color: white;
+}
+
+.mb-3{
+  color:white;
+}
+p{
+  color:white;
+}
+
+h3{
+  color:white;
+}
+#h3{
+  color:white;
+}
+
+/*Classes vs IDs
+Classes= use more than once, uses class=""
+Classes= ".mb-3" for example within CSS
+IDs= use once, uses id="" in HTML,
+IDs= use once, uses "#mb-3" in CSS.
+*/
